@@ -7,11 +7,11 @@ LW300 sends HTTP GET message to your IP address where python is listening and st
 
 
 To get started:
-# Configure DNS so that requests from LW300 to OS Server goes to your own server
-# Start WeatherGrabberToCassandraDB.py to store weather data in Cassandra OR
-# Start SimpleServer.py to store weather data in SQLLite
-# Start DataServer.py to access Web app to display weather graphs
-# Start Wunderground.py to transfer data from your db to Weather Underground
+1. Configure DNS so that requests from LW300 to OS Server goes to your own server
+2. Start WeatherGrabberToCassandraDB.py to store weather data in Cassandra OR
+3. Start SimpleServer.py to store weather data in SQLLite
+4. Start DataServer.py to access Web app to display weather graphs
+5. Start Wunderground.py to transfer data from your db to Weather Underground
 
 
 # TODO  
