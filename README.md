@@ -2,8 +2,9 @@
 A python project to grab weather information from Oregon Scientific LW300 Weather Stations
 
 How it works
-LW300 does DNS request for gateway.weather.oregonscientific.com which you must "grab" and return your own IP address. 
-LW300 sends HTTP GET message to your IP address where python is listening and stores the weather data in db
+
+- LW300 does DNS request for gateway.weather.oregonscientific.com which you must "grab" and return your own IP address. 
+- LW300 sends HTTP GET message to your IP address where python is listening and stores the weather data in db
 
 
 To get started:
