@@ -1,4 +1,4 @@
-# LW300-weather-grabber
+# LW300-weather-data-grabber
 A python project to grab weather information from Oregon Scientific LW300 Weather Stations
 
 How it works
